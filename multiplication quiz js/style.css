@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Nunito+Sans:opsz,wght@6..12,200;6..12,300;6..12,400;6..12,500;6..12,600&family=Poppins:ital,wght@0,300;0,400;1,300&family=Roboto:ital,wght@0,100;0,300;1,300;1,500&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap'); 
+
+
+*{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 620 !important;
+}
+
+
+
+body{
+    background-color: rgb(238, 99, 99) !important;
+}
+
+.container{
+    align-items: center !important;
+    height: 100vh;
+
+} 
+.card{
+    min-height: 300px; 
+    min-width: 350px !important; 
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+} 
+
+
+.input{
+    margin-top: 30px ;
+}
+.btn{
+    margin-left: 100px; 
+    margin-top: 40px !important;
+} 
+
